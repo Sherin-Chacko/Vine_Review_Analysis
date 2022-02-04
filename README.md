@@ -42,7 +42,7 @@ The analysis uses PySpark to perform the ETL process to extract the dataset, tra
 
 #### > Non-Vine reviews:
 
-
+<img width="697" alt="Screen Shot 2022-02-03 at 11 21 53 PM" src="https://user-images.githubusercontent.com/91294352/152471389-75c72e57-a0d4-419d-aeea-7c18e2809212.png">
 
 ### 3) Summary:
 
