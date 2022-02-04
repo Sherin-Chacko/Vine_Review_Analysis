@@ -32,6 +32,17 @@ The analysis uses PySpark to perform the ETL process to extract the dataset, tra
 
 #### > Non-Vine reviews:
 
+<img width="678" alt="Screen Shot 2022-02-03 at 11 16 16 PM" src="https://user-images.githubusercontent.com/91294352/152470900-f7d45221-6b66-473d-b879-de196ce0013f.png">
+
+**b) Percentage of 5-star reviews:**
+
+#### > Vine reviews:
 
 
+#### > Non-Vine reviews:
 
+### 3) Summary:
+
+a) 51% of the reviews in the Vine program were 5 stars reviews while the percentage in the non-Vine reviews is only 39%. This indicates that there is a positive bias for reviews in the Vine program.
+
+b) Finally we can also calculate the statistical distribution (mean, median and mode) of the star rating for the Vine and non-Vine reviews.
